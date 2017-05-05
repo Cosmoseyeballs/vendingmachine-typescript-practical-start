@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        //"outFile": "../js/app.js",
+        "outDir": "../js",
+        "sourceMap": true,
+        "module": "amd"
+      //  "experimentalDecorators": true // som i angular
+    }
+}
